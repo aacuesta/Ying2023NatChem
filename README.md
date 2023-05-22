@@ -30,14 +30,14 @@ Note: This will identify the structures of homologous proteins and identify the 
 
 **Main Window**
 
-![alt text](https://github.com/aacuesta/Uniprot_PDB_matching/blob/Windows_specific/Main%20Panel.PNG?raw=true)
+![alt text](https://github.com/aacuesta/Ying2023NatChem/blob/Windows_specific/Main%20Panel.PNG?raw=true)
 1. The input file must be an .xlsx file.
 1. It must also have a column named "Protein" that contains the Uniprot ID, and a column named "Position" that contains the residue number of interest.
 1. The output of the program will be an xlsx file.
 
 **Options window**
 
-![alt text](https://github.com/aacuesta/Uniprot_PDB_matching/blob/Windows_specific/Options%20panel.PNG?raw=true)
+![alt text](https://github.com/aacuesta/Ying2023NatChem/blob/Windows_specific/Options%20panel.PNG?raw=true)
 1. In the options panel, you can specify the parameters you would like to use to run the search.
 	1. **Blastp query length** defines the maximum length of the amino acid sequence to blast against the pdb database, pdbaa.
 	1. **Max e-value to report**: Blast e-value is usually reported in scientific notation. Set the size of the exponent using this field. Higher values will limit search results to higher quality alignments.
