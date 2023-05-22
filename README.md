@@ -30,7 +30,7 @@ Note: This will identify the structures of homologous proteins and identify the 
 
 **Main Window**
 
-![alt text](https://github.com/aacuesta/Ying2023NatChem/blob/main/Main%20Panel.PNG?raw=true)
+![alt text](https://github.com/aacuesta/Ying2023NatChem/blob/main/Main%20Panel.png)
 1. The input file must be an .xlsx file.
 1. It must also have a column named "Protein" that contains the Uniprot ID, and a column named "Position" that contains the residue number of interest.
 1. The output of the program will be an xlsx file.
