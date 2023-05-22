@@ -37,7 +37,7 @@ Note: This will identify the structures of homologous proteins and identify the 
 
 **Options window**
 
-![alt text](https://github.com/aacuesta/Ying2023NatChem/blob/main/Options%20Panel.PNG)
+![alt text](https://github.com/aacuesta/Ying2023NatChem/blob/main/Options%20Panel.PNG) | width=200
 1. In the options panel, you can specify the parameters you would like to use to run the search.
 	1. **Blastp query length** defines the maximum length of the amino acid sequence to blast against the pdb database, pdbaa.
 	1. **Max e-value to report**: Blast e-value is usually reported in scientific notation. Set the size of the exponent using this field. Higher values will limit search results to higher quality alignments.
